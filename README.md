@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Nyaa** (@yukisakuna), a student from Japan 🇯🇵.  
+I'm **にゃあ** (@yukisakuna), a student from Japan 🇯🇵.  
 I specialize in **AI coding** and love building creative projects with code and intelligence.  
 
 ---
