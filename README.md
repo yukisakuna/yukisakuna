@@ -21,3 +21,4 @@ I specialize in **AI coding** and love building creative projects with code and 
 ---
 
 ✨ Thanks for visiting my profile!
+あ、AIでごめんね笑 気づいたっしょ？
